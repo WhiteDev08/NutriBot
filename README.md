@@ -40,7 +40,7 @@
 ### Backend
 - **FastAPI** for the REST API  
 - **LangChain** for AI orchestration  
-- **OpenAI GPT-3.5-turbo** for AI responses  
+- **Groq** for AI responses  
 - **Python** as the backend language  
 
 ## 🚀 Getting Started
