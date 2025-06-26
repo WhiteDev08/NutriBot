@@ -72,7 +72,7 @@ export function ChatInterface() {
     // Simulate AI response
     // Call FastAPI backend
 try {
-  const response = await fetch('http://localhost:8000/diet', {
+  const response = await fetch('https://nutribot-7bkk.onrender.com/diet', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
